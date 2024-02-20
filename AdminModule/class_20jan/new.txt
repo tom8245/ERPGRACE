@@ -1,0 +1,12 @@
+                    <div>
+                        <label for="aca-start-year">Academic start Year:</label>
+                        <input type="text" name="aca-start-year" value="" required>
+                    </div>
+                    <div>
+                        <label for="aca-end-year">Academic end Year:</label>
+                        <input type="text" name="aca-end-year" value="" required>
+                    </div>
+                    <div>
+                        <label for="semester">Semester :</label>
+                        <input type="text" name="semester" value="" required>
+                    </div>
