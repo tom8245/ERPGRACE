@@ -42,6 +42,7 @@ html {
     position: relative;
     left: 60px;
     width: calc(100% - 140px);
+
 }
 
 .TT-head,
@@ -149,3 +150,5 @@ td {
     padding: 5px;
     margin-bottom: 5px;
 }
+
+

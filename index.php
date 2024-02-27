@@ -1,5 +1,4 @@
 <?php
-session_start();
 include('includes/config.php');
 
 if (isset($_POST['username']) && isset($_POST['password'])) {
@@ -128,4 +127,4 @@ if (isset($_POST['username']) && isset($_POST['password'])) {
     </script>
 </body>
 
-</html>f
+</html>

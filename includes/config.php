@@ -15,5 +15,5 @@ if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);
 }
 $pdo = new PDO('mysql:host=' . $host . ';dbname=' . $db_name . '', '' . $user . '', '' . $password . '');
-session_start();
+// session_start();
 // error_reporting(0);
